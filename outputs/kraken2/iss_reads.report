@@ -1,0 +1,43 @@
+  0.78	39	39	U	0	unclassified
+ 99.22	4962	0	R	1	root
+ 99.22	4962	0	R1	131567	  cellular organisms
+ 99.22	4962	0	D	2	    Bacteria
+ 49.99	2500	0	D1	1783272	      Terrabacteria group
+ 49.99	2500	0	P	1239	        Bacillota
+ 49.99	2500	0	C	91061	          Bacilli
+ 39.27	1964	0	O	1385	            Bacillales
+ 20.32	1016	0	F	186817	              Bacillaceae
+ 20.32	1016	0	G	2675233	                Metabacillus
+ 20.32	1016	1016	S	152268	                  Metabacillus litoralis
+ 18.96	948	0	F	90964	              Staphylococcaceae
+ 18.96	948	0	G	1279	                Staphylococcus
+ 18.96	948	916	S	1280	                  Staphylococcus aureus
+  0.64	32	32	S1	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
+ 10.72	536	0	O	186826	            Lactobacillales
+ 10.72	536	0	F	33958	              Lactobacillaceae
+ 10.72	536	0	G	1253	                Pediococcus
+ 10.72	536	0	G1	1670797	                  Pediococcus acidilactici group
+ 10.72	536	536	S	1254	                    Pediococcus acidilactici
+ 49.23	2462	3	P	1224	      Pseudomonadota
+ 30.59	1530	0	C	1236	        Gammaproteobacteria
+ 30.59	1530	0	O	91347	          Enterobacterales
+ 28.97	1449	1	F	543	            Enterobacteriaceae
+ 28.95	1448	0	F1	2890311	              Klebsiella/Raoultella group
+ 28.95	1448	0	G	570	                Klebsiella
+ 28.95	1448	1448	S	573	                  Klebsiella pneumoniae
+  1.62	81	0	F	1903410	            Pectobacteriaceae
+  1.62	81	0	G	204037	              Dickeya
+  1.62	81	81	S	1778540	                Dickeya fangzhongdai
+ 18.58	929	0	C	28216	        Betaproteobacteria
+  8.82	441	0	O	206351	          Neisseriales
+  8.82	441	0	F	481	            Neisseriaceae
+  8.82	441	0	G	482	              Neisseria
+  8.82	441	441	S	485	                Neisseria gonorrhoeae
+  6.74	337	0	O	206389	          Rhodocyclales
+  6.74	337	0	F	2808923	            Fluviibacteraceae
+  6.74	337	0	G	2808942	              Fluviibacter
+  6.74	337	337	S	1751046	                Fluviibacter phosphoraccumulans
+  3.02	151	0	O	80840	          Burkholderiales
+  3.02	151	0	F	80864	            Comamonadaceae
+  3.02	151	0	G	238749	              Diaphorobacter
+  3.02	151	151	S	1715720	                Diaphorobacter ruginosibacter

@@ -1,0 +1,62 @@
+  8.50	255	255	U	0	unclassified
+ 91.50	2745	0	R	1	root
+ 91.50	2745	0	R1	131567	  cellular organisms
+ 83.63	2509	0	D	2	    Bacteria
+ 75.37	2261	0	D1	1783272	      Terrabacteria group
+ 75.37	2261	0	P	1239	        Bacillota
+ 75.37	2261	0	C	91061	          Bacilli
+ 65.77	1973	0	O	1385	            Bacillales
+ 30.03	901	0	F	90964	              Staphylococcaceae
+ 30.03	901	0	G	1279	                Staphylococcus
+ 30.03	901	38	S	1280	                  Staphylococcus aureus
+ 28.77	863	863	S1	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
+ 29.10	873	0	F	186817	              Bacillaceae
+ 29.10	873	0	G	1386	                Bacillus
+ 29.10	873	0	G1	653685	                  Bacillus subtilis group
+ 29.10	873	0	S	1423	                    Bacillus subtilis
+ 29.10	873	0	S1	135461	                      Bacillus subtilis subsp. subtilis
+ 29.10	873	873	S2	224308	                        Bacillus subtilis subsp. subtilis str. 168
+  6.63	199	0	F	186820	              Listeriaceae
+  6.63	199	0	G	1637	                Listeria
+  6.63	199	0	S	1639	                  Listeria monocytogenes
+  6.63	199	199	S1	169963	                    Listeria monocytogenes EGD-e
+  9.60	288	0	O	186826	            Lactobacillales
+  6.60	198	0	F	33958	              Lactobacillaceae
+  6.60	198	0	G	2742598	                Limosilactobacillus
+  6.60	198	198	S	1613	                  Limosilactobacillus fermentum
+  3.00	90	0	F	81852	              Enterococcaceae
+  3.00	90	0	G	1350	                Enterococcus
+  3.00	90	0	S	1351	                  Enterococcus faecalis
+  3.00	90	90	S1	1169293	                    Enterococcus faecalis EnGen0336
+  8.27	248	0	P	1224	      Pseudomonadota
+  8.27	248	0	C	1236	        Gammaproteobacteria
+  8.00	240	0	O	91347	          Enterobacterales
+  8.00	240	0	F	543	            Enterobacteriaceae
+  4.47	134	0	G	561	              Escherichia
+  4.47	134	0	S	562	                Escherichia coli
+  4.47	134	0	S1	83333	                  Escherichia coli K-12
+  4.47	134	134	S2	511145	                    Escherichia coli str. K-12 substr. MG1655
+  3.53	106	0	G	590	              Salmonella
+  3.53	106	0	S	28901	                Salmonella enterica
+  3.53	106	0	S1	59201	                  Salmonella enterica subsp. enterica
+  3.53	106	0	S2	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+  3.53	106	106	S3	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+  0.27	8	0	O	72274	          Pseudomonadales
+  0.27	8	0	F	135621	            Pseudomonadaceae
+  0.27	8	0	G	286	              Pseudomonas
+  0.27	8	0	G1	136841	                Pseudomonas aeruginosa group
+  0.27	8	0	S	287	                  Pseudomonas aeruginosa
+  0.27	8	8	S1	208964	                    Pseudomonas aeruginosa PAO1
+  7.87	236	0	D	2759	    Eukaryota
+  7.87	236	0	D1	33154	      Opisthokonta
+  7.87	236	0	K	4751	        Fungi
+  7.87	236	0	K1	451864	          Dikarya
+  7.87	236	0	P	4890	            Ascomycota
+  7.87	236	0	P1	716545	              saccharomyceta
+  7.87	236	0	P2	147537	                Saccharomycotina
+  7.87	236	0	C	4891	                  Saccharomycetes
+  7.87	236	0	O	4892	                    Saccharomycetales
+  7.87	236	0	F	4893	                      Saccharomycetaceae
+  7.87	236	0	G	4930	                        Saccharomyces
+  7.87	236	0	S	4932	                          Saccharomyces cerevisiae
+  7.87	236	236	S1	559292	                            Saccharomyces cerevisiae S288C
