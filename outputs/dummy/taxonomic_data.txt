@@ -1,0 +1,6 @@
+Seq_ID Taxonomy_ID Classification
+SeqA 23917 Bacteria;Firmicutes;Clostridia
+SeqB 02134 Archea;Euryarchaeota;Methanomicrobia
+SeqC 08004 Bacteria;Proteobacteria;Alphaproteobacteria
+SeqD 01776 Bacteria;Firmicutes;Bacili
+
