@@ -1,3 +1,5 @@
 tmp*
 .nextflow*
 work*
+k2*
+*.DS_Store*
