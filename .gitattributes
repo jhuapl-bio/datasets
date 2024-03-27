@@ -3,3 +3,4 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tab.gz filter=lfs diff=lfs merge=lfs -text
 *.fasta.gz filter=lfs diff=lfs merge=lfs -text
+pathogens.fasta.gz filter=lfs diff=lfs merge=lfs -text
